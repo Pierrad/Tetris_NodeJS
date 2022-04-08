@@ -10,7 +10,7 @@ deux joueurs grâce à un serveur NodeJS et la bibiothèque Socket.io.</p>
 
 <h3> Les technologies </h3>
 
-<ul align='center'>
+<ul>
   <li> JavaScript </li>
   <li> NodeJS </li>
   <li> Socket io </li>
@@ -19,7 +19,7 @@ deux joueurs grâce à un serveur NodeJS et la bibiothèque Socket.io.</p>
 <p> Le code du fichier "dom-To-Json.js" provient du Gist suivant : https://gist.github.com/sstur/7379870 </p>
 
 <h3> Installation </h3>
-<ol align='center'>
+<ol>
   <li> Installer Node </li>
   <li> Cloner ou télécharger le projet </li>
   <li> Via un terminal de commande, dans le dossier du projet, run "npm install" (normalement le dossier "node_modules" est déjà présent) </li>
