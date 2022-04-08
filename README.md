@@ -29,7 +29,7 @@ deux joueurs grâce à un serveur NodeJS et la bibiothèque Socket.io.</p>
 
 <h3> TODO </h3>
 
-<ul align='center'>
+<ul>
   <li> Réparer le problème de la pièce qui continue de tomber d'encore 1 bloc après avoir pourtant touché une pièce. (Il survient lorsque l'on bouge la pièce juste avant qu'elle touche une autre pièce </li>
   <li> Créer tout les "div" du DOM directement via JavaScript au lieu de les HardCoder </li>
   <li> Améliorer le Front design </li> 
